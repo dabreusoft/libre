@@ -1,6 +1,6 @@
 Your job will be to finish this work in progress. You need to full build the backend for the client application.
 
-1. The backend needs to use python/flask
+1. The backend needs to use python/flask no big files and modular app
 2. For the data persistance use a mongodb (TinyDB)
 3. The server should send fake data for all the LLM responses
 4. The we will only support openai response (streaming and non streaming)
