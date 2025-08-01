@@ -1,0 +1,10 @@
+Your job will be to finish this work in progress. You need to full build the backend for the client application.
+
+1. The backend needs to use python/flask
+2. For the data persistance use a mongodb (TinyDB)
+3. The server should send fake data for all the LLM responses
+4. The we will only support openai response (streaming and non streaming)
+5. Create a list of all API the backend is looking for with their payload and expected response and add this in a `docs` folder
+6. First implement the APIs related to authetication and chat requests.
+7. Once you can login and talk to the demoy AI implement the rest of the APIs
+8. Create a comprehensive todo list and make sure you regulary update/read and push the todo to the repo
